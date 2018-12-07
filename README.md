@@ -14,7 +14,7 @@ K. Fernandes, P. Vinagre and P. Cortez. A Proactive Intelligent Decision Support
 
 There are 6 total ipython notebooks, seperately contributed by:
 
-Junge Zhang: Data processing, random forest model and gradient boositing model: Data Processing and Feature Selection.ipynb; Random Forest.ipybb; Gradient Boosting.ipynb.
+Junge Zhang: Data processing, Random Forest model and Gradient Boosting model: Data Processing and Feature Selection.ipynb; Random Forest.ipybb; Gradient Boosting.ipynb.
 
 Yichao Shen: KNN model and Decision Tree model: Knn and DT.ipynb.
 
