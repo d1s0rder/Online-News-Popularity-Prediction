@@ -3,11 +3,11 @@ This is a course project for DS-GA-1001, Introduction to Data Scinece, Master of
 
 The project target is to predict the popularity of news for an online news website, Meshable. 
 
-The project is completed by the team "News Yorker", whose members are Junge Zhang, Yichao Shem, Dian Zhang and Lyuang Fu
+The project is completed by the team "News Yorker", whose members are Junge Zhang, Yichao Shen, Dian Zhang and Lyuang Fu
 
 The original data is from UCI Machine Learning Repository.
 
-Data reference:
+**Data reference:**
 UCI Machine Learning Repository. "Online News Popularity Data Set". [online] Available at: http://archive.ics.uci.edu/ml/datasets/Online+News+Popularity
 
 K. Fernandes, P. Vinagre and P. Cortez. A Proactive Intelligent Decision Support System for Predicting the Popularity of Online News. Proceedings of the 17th EPIA 2015 - Portuguese Conference on Artificial Intelligence, September, Coimbra, Portugal.
