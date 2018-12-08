@@ -21,3 +21,5 @@ Yichao Shen: KNN model and Decision Tree model: Knn and DT.ipynb.
 Dian Zhang: SVM model: SVM_Final_v2.ipynb.
 
 Lyuang Fu: Logistic Regression model: Logistic Regression.ipynb.
+
+There is also a final report collectively contributed by all members in the team.
